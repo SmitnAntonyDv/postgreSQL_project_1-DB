@@ -1,11 +1,12 @@
 {
   "development": {
-    "username": "root",
-    "password": null,
-    "database": "database_development",
-    "host": "127.0.0.1",
-    "dialect": "mysql",
-    "operatorsAliases": false
+    "username": "cbpqfiol",
+    "password": "XY6KaOJCvieDz0_upTc391j-JIELuJvm",
+    "database": "cbpqfiol",
+    "host": "balarama.db.elephantsql.com",
+    "url": "postgres://cbpqfiol:XY6KaOJCvieDz0_upTc391j-JIELuJvm@balarama.db.elephantsql.com:5432/cbpqfiol",
+    "dialect": "postgres",
+    "operatorsAliases": "0"
   },
   "test": {
     "username": "root",
